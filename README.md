@@ -1,4 +1,4 @@
-![logo](https://github.com/prashant2130/prashant2130/blob/main/6.jpg)
+![logo](https://github.com/prashant2130/prashant2130/blob/main/Black%20and%20Orange%20Modern%20Company%20Profile%20Presentation.jpg)
 <h1 align="center">Hi 👋, I'm Prashant Jagtap</h1>
 <h3 align="center">A passionate MERN Stack and Java developer from India</h3>
 <img align="right"alt="MERN STACK CODING" width="400px" src="https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif">
